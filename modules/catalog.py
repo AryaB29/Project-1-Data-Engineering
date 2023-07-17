@@ -14,7 +14,7 @@ class Catalog():
             for item in catalog:
                 if input_search in item.title.lower():
                     if type(item) == Magazine:
-                        list_hasil.append("Title: " + item.title +" "+ "Volume : " +" "+ item.volume + "Issue : " +" "+ item.issue + "Type Catalog : Magazine")
+                        list_hasil.append("Title: " + item.title +" "+ "Volume : " +" "+ item.volume +" "+ "Issue : " +" "+ item.issue + "Type Catalog : Magazine")
                     elif type(item) == Book:
                         list_hasil.append("Title : " + item.title +" "+ "DDS Number : " +" "+ item.dds_number +" "+ "Type Catalog : Book")
                     elif type(item) ==DVD:
