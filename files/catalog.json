@@ -1,0 +1,120 @@
+[
+    {
+        "source" : "book",
+        "title" : "Title Test",
+        "subject" :"Subject Test",
+        "upc":null,
+        "issbn": "12345-123",
+        "authors":"Arya Bandoro",
+        "dds_number" :"08776735234"
+
+    },
+
+    {
+        "source" : "book",
+        "title" : "Title Test2",
+        "subject" :"Subject Test2",
+        "upc":null,
+        "issbn": "12345-1232",
+        "authors":"Arya Bandoro",
+        "dds_number" :"087767352342"
+
+    },
+
+
+    {
+        "source" : "book",
+        "title" : "Title Test3",
+        "subject" :"Subject Test3",
+        "upc":null,
+        "issbn": "12345-12323",
+        "authors":"Arya Bandoro",
+        "dds_number" :"087767352343"
+
+    },
+
+    {
+        "source" : "magazine",
+        "title" : "media cnn",
+        "subject" :"edisi 2 juli 2023",
+        "upc":null,
+        "volume": "volume 2",
+        "issue":"korupsi"
+    },
+
+    {
+        "source" : "magazine",
+        "title" : "media cnbc",
+        "subject" :"edisi 2 juli 2022",
+        "upc":null,
+        "volume": "volume 21",
+        "issue":"korupsi"
+    },
+
+    {
+        "source" : "magazine",
+        "title" : "media metro",
+        "subject" :"edisi 2 juli 2024",
+        "upc":null,
+        "volume": "volume 23",
+        "issue":"korupsi"
+    },
+
+    {
+        "source" : "DVD",
+        "title" : "title dvd2",
+        "subject" :"subject 1",
+        "upc":null,
+        "actor": "Arya Bandoro",
+        "director":"Joni",
+        "genre":"horor"
+    },
+
+    {
+        "source" : "DVD",
+        "title" : "title dvd2",
+        "subject" :"subject 14",
+        "upc":null,
+        "actor": "Arya Bandoro",
+        "director":"Joni",
+        "genre":"thriller"
+    },
+
+    {
+        "source" : "DVD",
+        "title" : "title dvd3",
+        "subject" :"subject 12",
+        "upc":null,
+        "actor": "Arya Bandoro",
+        "director":"Joni",
+        "genre":"comedy"
+    },
+
+    {
+        "source" : "cd",
+        "title" : "Rungkad",
+        "subject" :"Subject test",
+        "upc":null,
+        "artist": "Happy Asmara"
+    },
+
+    {
+        "source" : "cd",
+        "title" : "Ojok dibandingke",
+        "subject" :"Subject test 2",
+        "upc":null,
+        "artist": "Denny Caknan"
+    },
+
+    {
+        "source" : "cd",
+        "title" : "Kopi Dangdut",
+        "subject" :"Subject test 3",
+        "upc":null,
+        "artist": "Fahmi Shihab"
+    }
+
+
+    
+
+]
